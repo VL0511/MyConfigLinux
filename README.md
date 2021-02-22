@@ -1,7 +1,7 @@
 <h1 align="center">⚙️ My Lubuntu 18.04 LTS settings</h1>
 
 <center>
-    <img src="./img/result.png" alt="banner" width="640" height="340" style="border-radius:4px;">
+    <img src="./img/result.png" alt="banner" align="center" width="640" height="340" style="border-radius:4px;">
 </center>
 
 <div styele="text-align:center;">
