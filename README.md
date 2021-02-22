@@ -37,3 +37,10 @@ git clone https://github.com/VL0511/MyConfigLinux.git
     Custom folder will have all wallpapers, icons and themes that I have already downloaded, you can
     choose which one you want to look at themes, icons and wallpapers and use in the way that most pleases your operating system.
 </p>
+
+```
+Install plank and xcompmgr
+sudo apt install plank
+and
+sudo apt install xcompmgr
+```
